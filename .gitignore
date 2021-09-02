@@ -1,0 +1,14 @@
+*.DS_Store
+*.iml
+.classpath
+.idea/
+target/
+logs/*
+main/logs/*
+web/logs/*
+.sonar/
+.scannerwork/
+*/logs/
+*.versionsBackup
+rebel.xml
+*.rebel.xml
